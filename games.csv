@@ -1,0 +1,66 @@
+name,owner,weight,max.# players,known,present,veto
+"Dominant Species","Person A","Heavy",6,True,False,False
+"Caylus","Person A","Heavy",5,True,False,False
+"Twilight Struggle","Person A","Heavy",2,False,False,True
+"Tzolk'in","Person A","Heavy",5,True,False,False
+"Alchemists","Person A","Heavy",4,True,False,False
+"Kemet","Person A","Heavy",5,True,False,False
+"Battle for Rokugan","Person A","Heavy",6,False,False,False
+"Panamax","Person A","Heavy",4,True,False,False
+"A Feast for Odin","Person A","Heavy",4,True,False,False
+"Ora et Labora","Person A","Heavy",4,False,False,False
+"A Game of Thrones","Person A","Heavy",6,True,False,True
+"Churchill","Person A","Heavy",3,False,False,True
+"Catan","Person A","Classic",4,True,False,False
+"Dominion: Intrigue","Person A","Classic",4,True,False,False
+"Ticket To Ride","Person A","Classic",5,True,False,False
+"Onitama","Person A","Light",2,True,False,True
+"Condottiere","Person A","Light",5,False,False,False
+"Galaxy Trucker","Person A","Light",4,False,False,False
+"Chinatown","Person A","Light",5,True,False,False
+"Patchwork","Person A","Light",2,False,False,True
+"Dixit","Person A","Party",6,True,False,False
+"Treasure Island","Person A","Light",4,True,False,False
+"Notre Dame","Person A","Medium",5,True,False,False
+"Castles of Burgundy","Person A","Medium",4,True,False,False
+"Bruges","Person A","Medium",4,False,False,False
+"Azul","Person A","Light",4,True,False,False
+"Coup","Person A","Party",5,True,False,False
+"Mysterium","Person B","Light",6,True,False,False
+"Castles of Mad King Ludwig","Person A","Medium",4,True,False,False
+"Puerto Rico","Person A","Medium",5,True,False,False
+"Bohnanza","Person A","Light",5,True,False,False
+"7 Wonders","Person A","Classic",7,True,False,False
+"Space Alert","Person A","Medium",5,False,False,True
+"Cosmic Encounter","Person A","Medium",5,True,False,False
+"At the Gates of Loyang","Person A","Medium",4,True,False,False
+"Lancaster","Person A","Medium",5,True,False,False
+"Keyflower","Person A","Medium",5,False,False,False
+"Forum Trajanum","Person A","Medium",4,False,False,False
+"Trajan","Person A","Medium",4,False,False,False
+"Bora Bora","Person A","Medium",4,True,False,False
+"In the Year of the Dragon","Person A","Medium",5,True,False,False
+"Rialto","Person A","Medium",4,False,False,False
+"Aquasphere","Person A","Medium",4,False,False,False
+"Amerigo","Person A","Medium",4,False,False,False
+"Pandemic","Person A","Classic",5,True,False,False
+"Cyclades","Person E","Medium",5,True,False,False
+"Thunderstone","Person E","Medium",5,False,False,False
+"Marvel Champions","Person F","Medium",4,True,False,True
+"Murder and Deception","Person A","Party",5,True,False,False
+"Decrypto","Person A","Party",8,True,False,False
+"Codenames","Person A","Party",8,True,False,False
+"Secret Hitler","Person F","Party",10,True,False,False
+"Avalon","Person A","Party",10,True,False,False
+"One Night Ultimate Werewolf","Person A","Party",10,True,False,False
+"Love Letter","Person A","Party",4,True,False,False
+"Skull","Person E","Party",6,True,False,False
+"Wavelength","Person E","Party",10,True,False,False
+"Mage Knight","Person E","Heavy",4,False,False,True
+"Agricola","Person E","Heavy",4,False,False,False
+"Parks","Person E","Light",4,False,False,False
+"Five Tribes","Person B","Medium",4,True,False,False
+"La Isla","Person A","Light",4,True,True,False
+"Just One","Person A","Party",10,True,False,False
+"Concordia","Person D","Light",5,True,True,False
+"Detective Club","Person C","Party",7,True,True,False
